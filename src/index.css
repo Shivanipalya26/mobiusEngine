@@ -1,0 +1,15 @@
+@import "@fontsource/sora";
+@import "@fontsource/sora/600.css";
+@import "@fontsource/dm-sans";
+@import "@fontsource/dm-sans/500.css";
+@import "@fontsource/dm-sans/600.css";
+@import "@fontsource/dm-sans/700.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+  
